@@ -1,3 +1,3 @@
 # SoundCTL API Documentation
 
-## Click [HERE](DOCS.md) to read the latest version.
+## You can click [HERE](DOCS.md) to read the latest version.

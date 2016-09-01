@@ -427,7 +427,7 @@ url | String | 1 <= N <= 255 characters | URL of the remote resource to be used 
 ```json
 {
   "type": "url",
-  "url": "https://www.youtube.com/watch?v=ZkAT5krv_6c"
+  "sourceUrl": "https://www.youtube.com/watch?v=ZkAT5krv_6c"
 }
 ```
 
